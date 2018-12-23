@@ -1,13 +1,13 @@
 # Site settings
-title: BY Blog
-SEOTitle: 柏荧的博客 | BY Blog
+title: Tina HomePage
+SEOTitle: 小可爱的主页 | Tina HomePage
 header-img: img/post-bg-desk.jpg
-email: qiubaiying@gmail.com
-description: "Every failure is leading towards success."
-keyword: "BY, BY Blog, 柏荧的博客, qiubaiying, 邱柏荧, iOS, Apple, iPhone"
-url: "http://qiubaiying.github.io"          # your host, for absolute URL
+email: zeyu.cui@cripac.ia.ac.cn
+description: "You are the apple in my eye. xiang kou shui yi yang."
+keyword: "Tina, XinTian Wang, 王欣恬的博客, 我未来的老婆, 爱你哟, iOS, Apple, iPhone"
+url: "http://cyente.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
-github_repo: "https://github.com/qiubaiying/qiubaiying.github.io.git" # you code repository
+github_repo: "https://github.com/cyente/cyente.github.io.git" # you code repository
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
