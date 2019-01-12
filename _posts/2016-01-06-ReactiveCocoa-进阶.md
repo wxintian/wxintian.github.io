@@ -16,6 +16,7 @@ CrossFit is a branded fitness regimen created by Greg Classman. It has become a 
 In this case, I came up with the proposal that a Healthy Square restaurant provide healthy and tasty food installed in CrossFit gyms in Hong Kong. 
 ![此处为图片加载失败时显示的文字](https://gifs.com/gif/health-square-rRy7RW?muted=false)
 ![此处为图片加载失败时显示的文字](https://github.com/wxintian/wxintian.github.io/blob/master/img/404-bg.jpg)
+<iframe src='//gifs.com/embed/health-square-rRy7RW' frameborder='0' scrolling='no' width='490px' height='360px' style='-webkit-backface-visibility: hidden;-webkit-transform: scale(1);' ></iframe>
 
 <embed src="https://https://www.youtube.com/watch?v=w3I7GUV_0Jg&t=1s" allowfullscreen="true" width="425" height="344">
 >在[上篇文章](http://qiubaiying.github.io/2016/12/26/ReactiveCocoa-基础/)中介绍了**ReactiveCocoa**的基础知识,接下来我们来深入介绍**ReactiveCocoa**及其在**MVVM**中的用法。
