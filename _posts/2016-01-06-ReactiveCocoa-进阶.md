@@ -15,8 +15,8 @@ tags:
 CrossFit is a branded fitness regimen created by Greg Classman. It has become a lifestyle characterized by safe, effective exercise and sound nutrition. However, though there are already 9 CrossFit gym in Hong Kong, no gym successfulln realize the combination of diet and exercise.
 In this case, I came up with the proposal that a Healthy Square restaurant provide healthy and tasty food installed in CrossFit gyms in Hong Kong. 
 ![Video one](http://wxintian.github.io/img/gif.gif)
-
-
+![Video one](http://wxintian.github.io/img/微信图片_20190113061555.jpg)
+![Video one](http://wxintian.github.io/img/gif(1).gif)
 ![ReactiveCocoa进阶思维导图](https://ww3.sinaimg.cn/large/006y8lVagw1fbgye3re5xj30je0iomz8.jpg)
 # 常见操作方法介绍
 
