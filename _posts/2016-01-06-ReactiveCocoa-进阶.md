@@ -14,6 +14,7 @@ tags:
 # Crossfit Hong Kong
 CrossFit is a branded fitness regimen created by Greg Classman. It has become a lifestyle characterized by safe, effective exercise and sound nutrition. However, though there are already 9 CrossFit gym in Hong Kong, no gym successfulln realize the combination of diet and exercise.
 In this case, I came up with the proposal that a Healthy Square restaurant provide healthy and tasty food installed in CrossFit gyms in Hong Kong. 
+![此处为图片加载失败时显示的文字](https://www.youtube.com/watch?v=w3I7GUV_0Jg&t=1s)
 ![此处为图片加载失败时显示的文字](https://github.com/wxintian/wxintian.github.io/blob/master/img/404-bg.jpg)
 
 >在[上篇文章](http://qiubaiying.github.io/2016/12/26/ReactiveCocoa-基础/)中介绍了**ReactiveCocoa**的基础知识,接下来我们来深入介绍**ReactiveCocoa**及其在**MVVM**中的用法。
