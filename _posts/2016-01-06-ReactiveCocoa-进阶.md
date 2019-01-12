@@ -1,19 +1,17 @@
 ---
 layout:     post
-title:      ReactiveCocoa 进阶
-subtitle:   函数式编程框架 ReactiveCocoa 进阶
-date:       2017-01-06
-author:     BY
+title:      CrossFit Healthy Square
+subtitle:   Health restaurant and application design in gym
 header-img: 
 catalog: true
 tags:
-    - iOS
-    - ReactiveCocoa
-    - 函数式编程
-    - 开源框架
+    - Online Nutrionist
+    - Food DIY
+    - Order Machine
 ---
-# 前言
-![此处为图片加载失败时显示的文字](https://github.com/wxintian/wxintian.github.io/blob/master/img/404-bg.jpg)
+# Crossfit Hong Kong
+CrossFit is a branded fitness regimen created by Greg Classman. It has become a lifestyle characterized by safe, effective exercise and sound nutrition. However, though there are already 9 CrossFit gym in Hong Kong, no gym successfulln realize the combination of diet and exercise.
+In this case, I came up with the proposal that a Healthy Square restaurant provide healthy and tasty food installed in CrossFit gyms in Hong Kong. 
 
 >在[上篇文章](http://qiubaiying.github.io/2016/12/26/ReactiveCocoa-基础/)中介绍了**ReactiveCocoa**的基础知识,接下来我们来深入介绍**ReactiveCocoa**及其在**MVVM**中的用法。
 
