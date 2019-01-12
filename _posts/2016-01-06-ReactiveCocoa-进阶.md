@@ -4,7 +4,7 @@ title:      CrossFit Healthy Square
 subtitle:   Health restaurant and application design in gym
 date:       2016-10-10
 author:     BY
-header-img: img/404-bg.jpg
+header-img: img/Careers_Header_Web.png
 catalog: true
 tags:
     - Online Nutrionist
