@@ -1,9 +1,9 @@
 # Site settings
 title: Tina HomePage
-SEOTitle: 小可爱的主页 | Tina HomePage
-header-img: img/post-bg-desk.jpg
-email: zeyu.cui@cripac.ia.ac.cn
-description: "You are the apple in my eye. xiang kou shui yi yang."
+SEOTitle: Wang Xintian | Wang Xintian Homepage
+header-img: img/封面.jpg      
+email: tinawxt@connect.hku.hk
+description: "A future designer with unlimited potential and possibilities."
 keyword: "Tina, XinTian Wang, 王欣恬的博客, 我未来的老婆, 爱你哟, iOS, Apple, iPhone"
 url: "http://cyente.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
@@ -11,8 +11,8 @@ github_repo: "https://github.com/cyente/cyente.github.io.git" # you code reposit
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "You are the apple in my eye. xiang kou shui yi yang."
-sidebar-avatar: /img/about-BY-gentle.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-about-description: "A future designer with unlimited potential and possibilities."
+sidebar-avatar: img/头像.jpg # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
