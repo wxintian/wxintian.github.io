@@ -24,22 +24,22 @@ The customers can design the dish on the order machine with the same system. Als
 Healthy square will provide online order app. The customers can design their own dish or order food online. Customer can either pay online or pay at the order machine in stores.
 ![Video one](http://wxintian.github.io/img/gif2.gif)
 
-##Design
-###Core concept:
+## Design
+### Core concept:
 Fresh, Healthy, DIY
 
-###Challenges
+### Challenges
 Designing for online dishes design system came with a lot of challenges:
         **How can we deliver our concept**
         **How can we fasten and simplify the ordering process**
 
-###Ideation
+### Ideation
 	**Colour: bright colour with high saturation **
 	**Picture required for each ingredient**
 	**Food blog, share your own design**
 ![Video one](http://wxintian.github.io/img/gif4.gif)
 
-###Prototyping
+### Prototyping
  	**System diagram showing the major components **
 ![Video one](http://wxintian.github.io/img/导图.png)
  	**Draft design for app**
