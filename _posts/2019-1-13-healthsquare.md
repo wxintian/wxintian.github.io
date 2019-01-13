@@ -15,7 +15,7 @@ tags:
 CrossFit is a branded fitness regimen created by Greg Classman. It has become a lifestyle characterized by safe, effective exercise and sound nutrition. However, though there are already 9 CrossFit gym in Hong Kong, no gym successfulln realize the combination of diet and exercise.
 In this case, I came up with the proposal that a Healthy Square restaurant provide healthy and tasty food installed in CrossFit gyms in Hong Kong. 
 ![Video one](http://wxintian.github.io/img/gif.gif)
-![Video one](https://gifs.com/gif/health-square-pQroQr?muted=false）
+![Video one](https://gifs.com/gif/health-square-pQroQr?muted=false)
 
 # Order machine 
 The customers can design the dish on the order machine with the same system. Also, the machine can scan the QR code and process your order done on cell phone app. In this way we can save the expensive human cost in Hong Kong and fasten the ordering process.
