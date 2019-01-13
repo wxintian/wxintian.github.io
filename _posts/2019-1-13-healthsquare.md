@@ -30,17 +30,17 @@ Fresh, Healthy, DIY
 
 ### Challenges
 Designing for online dishes design system came with a lot of challenges:
--How can we deliver our concept
--How can we fasten and simplify the ordering process
+- How can we deliver our concept
+- How can we fasten and simplify the ordering process
 
 ### Ideation
--Colour: bright colour with high saturation
--Picture required for each ingredient
--Food blog, share your own design
+- Colour: bright colour with high saturation
+- Picture required for each ingredient
+- Food blog, share your own design
 ![Video one](http://wxintian.github.io/img/gif4.gif)
 
 ### Prototyping
-> **System diagram showing the major components **
+> System diagram showing the major components 
 ![Video one](http://wxintian.github.io/img/导图.png)
-> **Draft for application **
+> Draft for application 
 ![Video one](http://wxintian.github.io/img/微信图片_20190113061555.jpg)
