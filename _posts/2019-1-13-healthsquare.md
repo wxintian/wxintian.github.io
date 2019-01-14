@@ -66,5 +66,8 @@ Designing for online dishes design system came with a lot of challenges:
 > Draft for application 
 ![Video one](http://wxintian.github.io/img/微信图片_20190113061555.jpg)
 
+### Test
+In order to test the attractiveness for each prototyping, we use eye tracking technology to see the Area of Interests.
+
 # Final Thoughts
 This project was a combination of human computer interaction design and campagin marketing design. I feel my solution can solve many potential problems for the new restaurants and advocate for CrossFit in the long run. In our design, how to deliever our feature and fasten the process are the key problems to be considered. Through this project I can see the very interesting difference the system desihn can make to promote a project. 
