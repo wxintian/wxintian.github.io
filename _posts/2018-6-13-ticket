@@ -4,26 +4,28 @@ title:      Train ticket booking system
 subtitle:  Redesign 12306 website
 date:  2018-6-13
 author:     BY
-header-img: img/Careers_Header_Web.png
+header-img: img/wxintian.github.io/img/index.jpg
 catalog: true
 tags:
     - Train ticket
     - Booking system
     - Redesign
 ---
-* Task 
+* Breif
+
+*** Task 
 Give the original design of 12306.com . Redesign the user experience of 12306 train ticket booking system to help people choose the best train.
 
-* My Process
+*** My Process
 ![](https://wxintian.github.io/img/组图.png)
       
-* Tools
+*** Tools
 Visual c++ 6.0 mfc application
 
 <center>**User Research**</center >
 First, we need to specify the audience of the website and get to understand their goals. Here we may take audience during Spring Festival.
 
-* User research
+** User research
 We did online snow ball survey in order to understand the bigges needs of website users. 200 participants aged from 21 to 46 have done the survey.
 ![](https://wxintian.github.io/img/雷射图gai.png）
 
