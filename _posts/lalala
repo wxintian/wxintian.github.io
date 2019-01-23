@@ -1,1 +1,43 @@
-![此处为图片加载失败时显示的文字](https://github.com/wxintian/wxintian.github.io/blob/master/img/404-bg.jpg)
+---
+layout:     post
+title:      Train ticket booking system
+subtitle:  Redesign 12306 website
+date:  2018-6-13
+author:     BY
+header-img: img/Careers_Header_Web.png
+catalog: true
+tags:
+    - Train ticket
+    - Booking system
+    - Redesign
+---
+* Task 
+Give the original design of 12306.com . Redesign the user experience of 12306 train ticket booking system to help people choose the best train.
+
+* My Process
+![](https://wxintian.github.io/img/组图.png)
+      
+* Tools
+Visual c++ 6.0 mfc application
+
+<center>**User Research**</center >
+First, we need to specify the audience of the website and get to understand their goals. Here we may take audience during Spring Festival.
+
+* User research
+We did online snow ball survey in order to understand the bigges needs of website users. 200 participants aged from 21 to 46 have done the survey.
+![](https://wxintian.github.io/img/雷射图gai.png）
+
+Following analysis can be drew from the survey result.
+
+*** Taget User
+Taget railway customers during Spring Festival are mainly university students and adults working outside hometown in China. Most of them prefer to have quick access to train schedules and look for low prices within flexible dates.
+
+*** Main User Care
+Price, duration, number of changing
+
+*** Assumption of User goals
+They want to find the best train with firstly the cheapest price, secondly the shortest duration. And there is a must to bring them home before spring festival eve.
+
+
+![](https://wxintian.github.io/img/Copy of Untitled Diagram.png)
+ 
