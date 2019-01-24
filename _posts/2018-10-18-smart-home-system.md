@@ -3,7 +3,7 @@ layout:     post
 title:      Smart home system
 subtitle:   How can we help the elderly who live alone
 date:       2018-10-18
-author:     BY
+author:     Tina
 header-img: img/iStock-867902650-1200x800.jpg
 catalog: true
 tags:
