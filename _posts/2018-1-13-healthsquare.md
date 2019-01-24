@@ -3,7 +3,7 @@ layout:     post
 title:      CrossFit Healthy Square
 subtitle:   Health restaurant and application design in gym
 date:  208-1-13
-author:     BY
+author:     Tina
 header-img: img/Careers_Header_Web.png
 catalog: true
 tags:
