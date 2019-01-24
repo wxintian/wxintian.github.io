@@ -28,7 +28,7 @@ To build up this device, our team applies a moisture sensor and connects it with
 # Smart Power Strip
 Remote control of the power strip can enhance the convenience and security of the elderly. The Smart Power Strip has two control modules. With Wi-Fi control module, the elderly can operate the electrical devices through wireless information transmission anywhere. The initial embedded module enables to collect the data of the environment in real time to decrease the risk of catching fire.
 
-![](https://wxintian.github.io/img/关灯.gif)  
+![](https://wxintian.github.io/img/关灯.gif) 
 
 # Smart Clothes Rack and Curtain
 The elderly tend to come across inconvenient situations when the clothes are hung up outside but inaccessible at rainy days, or the clothes are indoor with a shiny sunlight. The demand of a weather controlled clothes rack which has the automatic collecting function both to prevent the clothes from being drenched and to better exploit the sunlight.
